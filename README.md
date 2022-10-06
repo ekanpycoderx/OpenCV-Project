@@ -18,6 +18,6 @@ enjoy and happy coding 😁.
 
 To clone the project 
 ```shell
-git clone https://github.com/Ekansh-is-Pro/OpenCV-Basics.git
+git clone https://github.com/ekanpycoderx/OpenCV-Project.git
 ```
 or Download Directly
