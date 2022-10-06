@@ -1,8 +1,7 @@
-# OpenCV-Basics
+# OpenCV-Project
 
-This project is made just to lean the basics of opencv-python and has all tutorials listed from
-main.py to main(x).py and so on
-Currently it is in devlopement so many files are not available ⚠️⚠️
+This project is made just to lean the basics of opencv-python and has all tutorials listed with their
+example names and so on. 
 
 ## Contribution 
 
